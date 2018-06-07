@@ -57,7 +57,7 @@ html {
   justify-content: space-around;
   color: #FF0033;
 }
-#project-container{
+.project-container{
   margin-top: 20%;
   display: flex;
   width: 100%;
@@ -75,6 +75,4 @@ span{
   align-items: center;
 }
 
-#about-content{
-  display
-}
+
